@@ -14,7 +14,7 @@ Para reproduzir este projeto, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://gitlab.com/seu-usuario/medical-cost-prediction.git](https://gitlab.com/seu-usuario/medical-cost-prediction.git)
+   git clone https://github.com/davib4d/insurance-data-analysis.git
    cd medical-cost-prediction
 
 2. Crie e ative um ambiente virtual:
